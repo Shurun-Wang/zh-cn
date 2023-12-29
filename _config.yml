@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "唐健"
+title                    : "王舒润"
 description              : "电磁无损检测"
-repository               : "tangjyan/tangjyan.github.io"
+repository               : "Shurun-Wang/Shurun-Wang.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "唐健"
+  name             : "王舒润"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "华中科技大学"
+  bio              : "合肥工业大学"
   location         : "湖北 武汉"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : "Shurun-Wang"
   google_plus      :
   keybase          :
   instagram        :
