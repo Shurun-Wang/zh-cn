@@ -147,7 +147,7 @@ redirect_from:
 <span class='anchor' id='-zyxx'></span>
 
 # 💬 重要消息
-- *现在* &ensp;&ensp;![Visitors](https://api.visitorbadge.io/api/visitors?path=https://shurun-wang.github.io/zh-cn/&label=visitors&countColor=%232ccce4&style=plastic)
+- *现在* &ensp;&ensp;&ensp;&ensp;![Visitors](https://api.visitorbadge.io/api/visitors?path=https://shurun-wang.github.io/zh-cn/&label=visitors&countColor=%232ccce4&style=plastic)
 - *2023.09*&ensp;刘琪女士与我步入婚姻殿堂
 
 
