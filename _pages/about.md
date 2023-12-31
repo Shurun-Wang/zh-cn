@@ -28,10 +28,10 @@ redirect_from:
 <span class='anchor' id='-jyjl'></span>
 
 # 🎓 教育经历 
-- *2019.09 - 2024.06*，博士，电气与自动化工程学院，合肥工业大学，合肥，中国。 <a href="https://www.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
-- *2023.04 - 2024.04*，博士，医学院, 顺天堂大学，东京，日本。 (联合培养) <a href="https://en.juntendo.ac.jp/"><img class="svg" src="/images/juntendo.png" width="16pt"></a> 
-- *2016.09 - 2019.06*，硕士, 电气与自动化工程学院，合肥工业大学，合肥，中国。 <a href="https://www.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
-- *2012.09 - 2016.06*，学士，电气与自动化工程学院，合肥工业大学，合肥，中国。 <a href="https://www.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
+- *2019.09 - 2024.06*&ensp;博士，电气与自动化工程学院，合肥工业大学，合肥，中国。 <a href="https://www.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
+- *2023.04 - 2024.04*&ensp;博士，医学院, 顺天堂大学，东京，日本。 (联合培养) <a href="https://en.juntendo.ac.jp/"><img class="svg" src="/images/juntendo.png" width="16pt"></a> 
+- *2016.09 - 2019.06*&ensp;硕士, 电气与自动化工程学院，合肥工业大学，合肥，中国。 <a href="https://www.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
+- *2012.09 - 2016.06*&ensp;学士，电气与自动化工程学院，合肥工业大学，合肥，中国。 <a href="https://www.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
 
 <span class='anchor' id='-lwzl'></span>
 
@@ -136,18 +136,18 @@ redirect_from:
 <h3 align="center">专利</h3>
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
 
-- 唐昊，__王舒润__，王彬。 一种基于网络架构搜索的人体运动意图识别方法。（审中-实审）
+- 唐昊，__王舒润__，王彬。一种基于网络架构搜索的人体运动意图识别方法。（审中-实审）
 
 <span class='anchor' id='-ryjl'></span>
 
 # 🏅 荣誉奖项
-- *2023.04*   受到国家留学基金委员会的留学资助
-- *2022.10*   博士研究生国家奖学金
+- *2023.04*&ensp;受到国家留学基金委员会的留学资助
+- *2022.10*&ensp;博士研究生国家奖学金
 
 <span class='anchor' id='-zyxx'></span>
 
 # 💬 重要消息
-- *2023.09*   刘琪女士与我步入婚姻殿堂
+- *2023.09*&ensp;刘琪女士与我步入婚姻殿堂
 
 
 
