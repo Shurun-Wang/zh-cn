@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "王舒润"
-description              : "电磁无损检测"
+description              : "好好生活"
 repository               : "Shurun-Wang/Shurun-Wang.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,12 +24,12 @@ author:
   name             : "王舒润"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "合肥工业大学"
-  location         : "湖北 武汉"
-  employer         : #"Hefei General Machinery Research Institute"
+  location         : "安徽 合肥"
+  employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=Pb73FP8AAAAJ"
+  email            : "wangsr@mail.hfut.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Shurun-Wang"
   uri              : 
   bitbucket        :
   codepen          :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
+  orcid            : # "https://orcid.org/0000-0001-9658-209X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
