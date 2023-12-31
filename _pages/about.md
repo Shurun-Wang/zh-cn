@@ -28,10 +28,10 @@ redirect_from:
 <span class='anchor' id='-jyjl'></span>
 
 # 🎓 教育经历 
-- *2019.09 - 2024.06*，博士，电气与自动化工程学院，合肥工业大学，合肥，中国。 <a href="https://hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
+- *2019.09 - 2024.06*，博士，电气与自动化工程学院，合肥工业大学，合肥，中国。 <a href="https://www.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
 - *2023.04 - 2024.04*，博士，医学院, 顺天堂大学，东京，日本。 (联合培养) <a href="https://en.juntendo.ac.jp/"><img class="svg" src="/images/juntendo.png" width="16pt"></a> 
-- *2016.09 - 2019.06*，硕士, 电气与自动化工程学院，合肥工业大学，合肥，中国。 <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
-- *2012.09 - 2016.06*，学士，电气与自动化工程学院，合肥工业大学，合肥，中国。 <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
+- *2016.09 - 2019.06*，硕士, 电气与自动化工程学院，合肥工业大学，合肥，中国。 <a href="https://www.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
+- *2012.09 - 2016.06*，学士，电气与自动化工程学院，合肥工业大学，合肥，中国。 <a href="https://www.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
 
 <span class='anchor' id='-lwzl'></span>
 
