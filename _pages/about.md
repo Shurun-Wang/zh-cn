@@ -53,7 +53,22 @@ redirect_from:
 <h3 align="center">2024</h3>
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
 
-- __Shurun Wang__, Hao Tang*, Feng Chen, et al. Integrated Block-Wise Neural Network with Auto-Learning Search Framework for Finger Gesture Recognition using sEMG Signals. Artificial Intelligence in Medicine. (已录用)
+<div class='paper-box'>
+    <div class='paper-box-image' style="text-align:center;">
+        <img src='images/aiim24.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://www.sciencedirect.com/science/article/abs/pii/S0933365724000198">
+            <papertitle> Integrated Block-Wise Neural Network with Auto-Learning Search Framework for Finger Gesture Recognition using sEMG Signals </papertitle>
+        </a>
+        <br>
+        <strong>Shurun Wang</strong>, Hao Tang*, Feng Chen, et al.
+        <br>
+        <em> Artificial Intelligence in Medicine</em>, 2024 <a href="https://github.com/Shurun-Wang/ALSF">[code]</a>
+        <p></p>
+        <p>提出了一种基于加权双Q学习算法的自动学习搜索框架，以构建高性能的神经网络。在基于表面肌电信号的手势识别任务中，所生成的网络模型性能优越。 </p>
+    </div>
+</div>
   
 
 <h3 align="center">2023</h3>
