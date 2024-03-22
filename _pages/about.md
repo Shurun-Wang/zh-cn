@@ -157,7 +157,7 @@ redirect_from:
 
 - 唐昊，__王舒润__，王彬。一种基于网络架构搜索的人体运动意图识别方法。（审中-实审）
 
-<span class='anchor' id='-ryjl'></span>
+<span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
 - *2023.04*&ensp;受到国家留学基金委员会的留学资助
