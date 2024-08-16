@@ -152,10 +152,10 @@ redirect_from:
     </div>
 </div>
 
-<h3 align="center">专利</h3>
+<h3 align="center">发明专利</h3>
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
 
-- 唐昊，__王舒润__，王彬。一种基于网络架构搜索的人体运动意图识别方法。（审中-实审）
+- 唐昊，__王舒润__，王彬。一种基于网络架构搜索的人体运动意图识别方法。ZL202111251646.3（已授权）
 
 <span class='anchor' id='-ryjx'></span>
 
