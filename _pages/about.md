@@ -17,13 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-合肥工业大学电气工程博士，以第一作者（含导师一作）发表SCI期刊论文5篇，引用 
- <a href='https://scholar.google.com/citations?user=Pb73FP8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。
+合肥工业大学电气工程博士，以第一作者（含导师一作）发表SCI期刊论文6篇，引用 
+ <a href='https://scholar.google.com/citations?user=bTr_fucAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。
 
 研究领域包括: 
-- 生理信号分析
+- 生物医学信号检测分析处理
 - 人-外骨骼交互
 - 大脑功能连接分析
+
+<span class='anchor' id='-gzjl'></span>
+
+# 💻 工作经历
+- *2024.09 - 现在*&ensp;博士后，信息科学技术学院，中国科学技术大学，合肥，中国。
 
 <span class='anchor' id='-jyjl'></span>
 
@@ -36,6 +41,27 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文专利 
+
+<h3 align="center">2024</h3>
+<div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
+
+<div class='paper-box'>
+    <div class='paper-box-image' style="text-align:center;">
+        <img src='images/bspc2024.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169260724004127">
+            <papertitle> Optimizing graph neural network architectures for schizophrenia spectrum disorder prediction using evolutionary algorithms </papertitle>
+        </a>
+        <br>
+        <strong>Shurun Wang</strong>, Hao Tang, Ryutaro Himeno, et al.
+        <br>
+        <em> Computer Methods and Programs in Biomedicine</em>, 2024 <a href="https://github.com/Shurun-Wang/EA-GNAS">[code]</a>
+        <p></p>
+        <p>提出了一种基于进化算法的图神经网络搜索框架，以生成可预测疾病的高性能的图神经网络模型。同时，采用了GNNExplainer方法对模型进行可解释性分析。</p>
+    </div>
+</div>
+
 
 <h3 align="center">2024</h3>
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
@@ -147,6 +173,7 @@ redirect_from:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
+- *2024.10*&ensp;博士学位论文被安徽省机器人学会评为优秀论文
 - *2023.04*&ensp;受到国家留学基金委员会的留学资助
 - *2022.10*&ensp;博士研究生国家奖学金
 
