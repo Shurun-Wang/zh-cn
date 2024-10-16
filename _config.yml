@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "王舒润"
   avatar           : "images/photo.png"
-  bio              : "合肥工业大学"
+  bio              : "中国科学技术大学"
   location         : "安徽 合肥"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=Pb73FP8AAAAJ"
-  email            : "wangsr@mail.hfut.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=bTr_fucAAAAJ"
+  email            : "srwang@ustc.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Shurun-Wang"
   uri              : 
   bitbucket        :
