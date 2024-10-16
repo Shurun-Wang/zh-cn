@@ -2,6 +2,9 @@
 main:
   - title: "简介"
     url: "/zh-cn/#about-me"
+    
+  - title: "工作经历"
+    url: "/zh-cn/#-gzjl"
 
   - title: "教育经历"
     url: "/zh-cn/#-jyjl"
