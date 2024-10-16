@@ -63,9 +63,6 @@ redirect_from:
 </div>
 
 
-<h3 align="center">2024</h3>
-<div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
-
 <div class='paper-box'>
     <div class='paper-box-image' style="text-align:center;">
         <img src='images/aiim24.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
