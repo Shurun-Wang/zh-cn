@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-合肥工业大学电气工程博士，以第一作者（含导师一作）发表SCI期刊论文6篇，引用 
+合肥工业大学电气工程博士，以第一作者（含导师一作）发表SCI期刊论文7篇，引用 
  <a href='https://scholar.google.com/citations?user=bTr_fucAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。
 
 研究领域包括: 
@@ -41,6 +41,27 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文专利 
+
+<h3 align="center">2025</h3>
+<div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
+
+<div class='paper-box'>
+    <div class='paper-box-image' style="text-align:center;">
+        <img src='images/apin2025.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://link.springer.com/article/10.1007/s10489-025-06415-3">
+            <papertitle> Improved data-driven model-free adaptive control method for an upper extremity power-assist exoskeleton </papertitle>
+        </a>
+        <br>
+        <strong>Shurun Wang</strong>, Hao Tang, Zhaowu Ping, et al.
+        <br>
+        <em>  Applied Intelligence</em>, 2025  <a href="https://github.com/Shurun-Wang/ISO-IMFAC">[code]</a>
+        <p></p>
+        <p>提出了一种改进的无模型自适应控制（IMFAC）算法，仅需要系统的输入输出数据就能实现外骨骼的精确控制。同时，提出了一种改进的蛇优化算法以搜索IMFAC算法的最优初始参数.  </p>
+    </div>
+</div>
+
 
 <h3 align="center">2024</h3>
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
