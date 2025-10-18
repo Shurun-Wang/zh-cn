@@ -41,147 +41,23 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文专利 
-
-<h3 align="center">2025</h3>
-<div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
-
-<div class='paper-box'>
-    <div class='paper-box-image' style="text-align:center;">
-        <img src='images/apin2025.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://link.springer.com/article/10.1007/s10489-025-06415-3">
-            <papertitle> Improved data-driven model-free adaptive control method for an upper extremity power-assist exoskeleton </papertitle>
-        </a>
-        <br>
-        <strong>Shurun Wang</strong>, Hao Tang, Zhaowu Ping, et al.
-        <br>
-        <em>  Applied Intelligence</em>, 2025  <a href="https://github.com/Shurun-Wang/ISO-IMFAC">[code]</a>
-        <p></p>
-        <p>提出了一种改进的无模型自适应控制（IMFAC）算法，仅需要系统的输入输出数据就能实现外骨骼的精确控制。同时，提出了一种改进的蛇优化算法以搜索IMFAC算法的最优初始参数.  </p>
-    </div>
-</div>
-
-
-<h3 align="center">2024</h3>
-<div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
-
-<div class='paper-box'>
-    <div class='paper-box-image' style="text-align:center;">
-        <img src='images/bspc2024.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://www.sciencedirect.com/science/article/pii/S0169260724004127">
-            <papertitle> Optimizing graph neural network architectures for schizophrenia spectrum disorder prediction using evolutionary algorithms </papertitle>
-        </a>
-        <br>
-        <strong>Shurun Wang</strong>, Hao Tang, Ryutaro Himeno, et al.
-        <br>
-        <em> Computer Methods and Programs in Biomedicine</em>, 2024 <a href="https://github.com/Shurun-Wang/EA-GNAS">[code]</a>
-        <p></p>
-        <p>提出了一种基于进化算法的图神经网络搜索框架，以生成可预测疾病的高性能的图神经网络模型。同时，采用了GNNExplainer方法对模型进行可解释性分析。</p>
-    </div>
-</div>
-
-
-<div class='paper-box'>
-    <div class='paper-box-image' style="text-align:center;">
-        <img src='images/aiim24.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://www.sciencedirect.com/science/article/abs/pii/S0933365724000198">
-            <papertitle> Integrated Block-Wise Neural Network with Auto-Learning Search Framework for Finger Gesture Recognition using sEMG Signals </papertitle>
-        </a>
-        <br>
-        <strong>Shurun Wang</strong>, Hao Tang*, Feng Chen, et al.
-        <br>
-        <em> Artificial Intelligence in Medicine</em>, 2024 <a href="https://github.com/Shurun-Wang/ALSF">[code]</a>
-        <p></p>
-        <p>提出了一种基于加权双Q学习算法的自动学习搜索框架，以构建高性能的神经网络。在基于表面肌电信号的手势识别任务中，所生成的网络模型性能优越。 </p>
-    </div>
-</div>
-  
-
-<h3 align="center">2023</h3>
-<div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
-
-<div class='paper-box'>
-    <div class='paper-box-image' style="text-align:center;">
-        <img src='images/tnnls23.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://ieeexplore.ieee.org/document/9609089">
-            <papertitle> A Novel Approach to Detecting Muscle Fatigue Based on sEMG by Using Neural Architecture Search Framework </papertitle>
-        </a>
-        <br>
-        <strong>Shurun Wang</strong>, Hao Tang*, Bin Wang, et al.
-        <br>
-        <em> IEEE Transactions on Neural Networks ＆ Learning Systems</em>, 2023 <a href="https://github.com/Shurun-Wang/NAS">[code]</a>
-        <p></p>
-        <p>提出了一种基于强化学习的分层探索机制，用于自动生成高性能的CNN模型，这些模型可用于检测肌肉疲劳。</p>
-    </div>
-</div>
-
-
-<h3 align="center">2022</h3>
-<div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
-
-<div class='paper-box'>
-    <div class='paper-box-image' style="text-align:center;">
-        <img src='images/jbhl22.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://ieeexplore.ieee.org/document/9857571">
-            <papertitle> Continuous estimation of human joint angles from sEMG using a multi-feature temporal convolutional attention-based network </papertitle>
-        </a>
-        <br>
-        <strong>Shurun Wang</strong>, Hao Tang*, Lifu Gao, et al.
-        <br>
-        <em> IEEE Journal of Biomedical and Health Informatics </em>, 2022 <a href="https://github.com/Shurun-Wang/MFTCAN-KNR">[code]</a>
-        <p></p>
-        <p> 提出了一种多特征时序卷积注意力网络（MFTCAN），用于估计关节角度。 <br>
-          开发了一种联合训练机制，将MFTCAN与KNR和SVR等传统统计算法相结合。
-</p>
-    </div>
-</div>
-
-<div class='paper-box'>
-    <div class='paper-box-image' style="text-align:center;">
-        <img src='images/tim22.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://ieeexplore.ieee.org/document/9762275">
-            <papertitle> A Double Threshold Adaptive Method for Robust Detection of Muscle Activation Intervals from Surface Electromyographic Signals </papertitle>
-        </a>
-        <br>
-        Hao Tang*, <strong>Shurun Wang</strong>, Qi Tan, et al.
-        <br>
-        <em> IEEE Transactions on Instrumentation and Measurement </em>, 2022 <a href="https://github.com/Shurun-Wang/sEMGDetection">[code]</a>
-        <p></p>
-        <p> 开发了一种基于样本熵的鲁棒算法，以克服运动伪迹和不规则强直性尖峰的影响。  <br> 设计了一个具有互锁结构的双阈值自适应检测框架，用于检测肌肉激活间隔的开始和结束。
-</p>
-    </div>
-</div>
-
-<h3 align="center">2021</h3>
-<div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
-
-<div class='paper-box'>
-    <div class='paper-box-image' style="text-align:center;">
-        <img src='images/bspc21.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://www.sciencedirect.com/science/article/pii/S1746809421001075">
-            <papertitle> Analysis of Fatigue in the Biceps Brachii by Using Rapid Refined Composite Multiscale Sample Entropy </papertitle>
-        </a>
-        <br>
-        <strong>Shurun Wang</strong>, Hao Tang*, Bin Wang, et al.
-        <br>
-        <em> Biomedical Signal Processing and Control</em>, 2021 <a href="https://github.com/Shurun-Wang/R2CMSE">[code]</a>
-        <p></p>
-        <p> 提出了快速精细化的复合多尺度样本熵（R2CMSE）来提取sEMG信号特征，这种算法可以描述肌肉疲劳的变化过程。 </p>
-    </div>
-</div>
+1. **S. Wang**, H. Tang*, R. Himeno, et al, "A robust denoising diffusion framework for completing missing regions of multiple biomedical signals, " Biomedical Signal Processing and Control, 113:108788, 2026. [Paper](https://www.sciencedirect.com/science/article/pii/S1746809425012996) / [Code](https://github.com/Shurun-Wang/DBSCF)
+2. **S. Wang**, H. Tang*, R. Himeno, et al, "ECGDenoiser: A magnitude-aware deep learning framework with phase retrieval for electrocardiogram signal enhancement, " Circuits, Systems, and Signal Processing, 2025, 44(10): 7526-7548. [Paper](https://link.springer.com/article/10.1007/s00034-025-03142-5) / [Code](https://github.com/Shurun-Wang/ECGDenoiser)
+3. **S. Wang**, H. Tang*, Z. Ping, et al, "Improved data-driven model-free adaptive control method for an upper extremity power-assist exoskeleton, " Applied Intelligence, 2025, 55(6): 1-18. [Paper](https://link.springer.com/article/10.1007/s10489-025-06415-3) / [Code](https://github.com/Shurun-Wang/ISO-IMFAC)
+4. **S. Wang**, H. Tang, R. Himeno, et al, "Optimizing graph neural network architectures for schizophrenia spectrum disorder prediction using evolutionary algorithms, " Computer Methods and Programs in Biomedicine, 2024, 257: 108419. [Paper](https://www.sciencedirect.com/science/article/pii/S0169260724004127) / [Code](https://github.com/Shurun-Wang/EA-GNAS)
+5. **S. Wang**, H. Tang*, F. Chen, et al, "Integrated Block-Wise Neural Network with Auto-Learning Search Framework for Finger Gesture Recognition using sEMG Signals, " Artificial Intelligence in Medicine, 2024, 149: 102777. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0933365724000198) / [Code](https://github.com/Shurun-Wang/ALSF)
+6. **S. Wang**, H. Tang*, B. Wang, et al, "A Novel Approach to Detecting Muscle Fatigue Based on sEMG by Using Neural Architecture Search Framework, " IEEE Transactions on Neural Networks ＆ Learning Systems, 2023, 34(8): 4932-4943. [Paper](https://ieeexplore.ieee.org/document/9609089) / [Code](https://github.com/Shurun-Wang/NAS)
+7. **S. Wang**, H. Tang*, L. Gao, et al, "Continuous estimation of human joint angles from sEMG using a multi-feature temporal convolutional attention-based network, " IEEE Journal of Biomedical and Health Informatics, 2022, 26(11): 5461-5472. [Paper](https://ieeexplore.ieee.org/document/9857571) / [Code](https://github.com/Shurun-Wang/MFTCAN-KNR)
+8. H. Tang*, **S. Wang**, Q. Tan, et al, "A Double Threshold Adaptive Method for Robust Detection of Muscle Activation Intervals from Surface Electromyographic Signals, " IEEE Transactions on Instrumentation and Measurement, 2022, 71:1-12. [Paper](https://ieeexplore.ieee.org/document/9762275) / [Code](https://github.com/Shurun-Wang/sEMGDetection)
+9. **S. Wang**, H. Tang*, B. Wang, et al, "Analysis of Fatigue in the Biceps Brachii by Using Rapid Refined Composite Multiscale Sample Entropy, " Biomedical Signal Processing and Control, 67(4):102510, 2021. [Paper](https://www.sciencedirect.com/science/article/pii/S1746809421001075) / [Code](https://github.com/Shurun-Wang/R2CMSE)1. **S. Wang**, H. Tang*, R. Himeno, et al, "A robust denoising diffusion framework for completing missing regions of multiple biomedical signals, " Biomedical Signal Processing and Control, 113:108788, 2026. [Paper](https://www.sciencedirect.com/science/article/pii/S1746809425012996) / [Code](https://github.com/Shurun-Wang/DBSCF)
+2. **S. Wang**, H. Tang*, R. Himeno, et al, "ECGDenoiser: A magnitude-aware deep learning framework with phase retrieval for electrocardiogram signal enhancement, " Circuits, Systems, and Signal Processing, 2025, 44(10): 7526-7548. [Paper](https://link.springer.com/article/10.1007/s00034-025-03142-5) / [Code](https://github.com/Shurun-Wang/ECGDenoiser)
+3. **S. Wang**, H. Tang*, Z. Ping, et al, "Improved data-driven model-free adaptive control method for an upper extremity power-assist exoskeleton, " Applied Intelligence, 2025, 55(6): 1-18. [Paper](https://link.springer.com/article/10.1007/s10489-025-06415-3) / [Code](https://github.com/Shurun-Wang/ISO-IMFAC)
+4. **S. Wang**, H. Tang, R. Himeno, et al, "Optimizing graph neural network architectures for schizophrenia spectrum disorder prediction using evolutionary algorithms, " Computer Methods and Programs in Biomedicine, 2024, 257: 108419. [Paper](https://www.sciencedirect.com/science/article/pii/S0169260724004127) / [Code](https://github.com/Shurun-Wang/EA-GNAS)
+5. **S. Wang**, H. Tang*, F. Chen, et al, "Integrated Block-Wise Neural Network with Auto-Learning Search Framework for Finger Gesture Recognition using sEMG Signals, " Artificial Intelligence in Medicine, 2024, 149: 102777. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0933365724000198) / [Code](https://github.com/Shurun-Wang/ALSF)
+6. **S. Wang**, H. Tang*, B. Wang, et al, "A Novel Approach to Detecting Muscle Fatigue Based on sEMG by Using Neural Architecture Search Framework, " IEEE Transactions on Neural Networks ＆ Learning Systems, 2023, 34(8): 4932-4943. [Paper](https://ieeexplore.ieee.org/document/9609089) / [Code](https://github.com/Shurun-Wang/NAS)
+7. **S. Wang**, H. Tang*, L. Gao, et al, "Continuous estimation of human joint angles from sEMG using a multi-feature temporal convolutional attention-based network, " IEEE Journal of Biomedical and Health Informatics, 2022, 26(11): 5461-5472. [Paper](https://ieeexplore.ieee.org/document/9857571) / [Code](https://github.com/Shurun-Wang/MFTCAN-KNR)
+8. H. Tang*, **S. Wang**, Q. Tan, et al, "A Double Threshold Adaptive Method for Robust Detection of Muscle Activation Intervals from Surface Electromyographic Signals, " IEEE Transactions on Instrumentation and Measurement, 2022, 71:1-12. [Paper](https://ieeexplore.ieee.org/document/9762275) / [Code](https://github.com/Shurun-Wang/sEMGDetection)
+9. **S. Wang**, H. Tang*, B. Wang, et al, "Analysis of Fatigue in the Biceps Brachii by Using Rapid Refined Composite Multiscale Sample Entropy, " Biomedical Signal Processing and Control, 67(4):102510, 2021. [Paper](https://www.sciencedirect.com/science/article/pii/S1746809421001075) / [Code](https://github.com/Shurun-Wang/R2CMSE)
 
 <h3 align="center">发明专利</h3>
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
@@ -200,4 +76,5 @@ redirect_from:
 
 
   
+
 
