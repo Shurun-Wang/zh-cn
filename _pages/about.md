@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-合肥工业大学电气工程博士，以第一作者（含导师一作）发表SCI期刊论文7篇，引用 
+合肥工业大学电气工程博士，以第一作者发表SCI期刊论文5+篇，引用 
  <a href='https://scholar.google.com/citations?user=bTr_fucAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。
 
 研究领域包括: 
@@ -50,24 +50,13 @@ redirect_from:
 7. **S. Wang**, H. Tang*, L. Gao, et al, "Continuous estimation of human joint angles from sEMG using a multi-feature temporal convolutional attention-based network, " IEEE Journal of Biomedical and Health Informatics, 2022, 26(11): 5461-5472. [Paper](https://ieeexplore.ieee.org/document/9857571) / [Code](https://github.com/Shurun-Wang/MFTCAN-KNR)
 8. H. Tang*, **S. Wang**, Q. Tan, et al, "A Double Threshold Adaptive Method for Robust Detection of Muscle Activation Intervals from Surface Electromyographic Signals, " IEEE Transactions on Instrumentation and Measurement, 2022, 71:1-12. [Paper](https://ieeexplore.ieee.org/document/9762275) / [Code](https://github.com/Shurun-Wang/sEMGDetection)
 9. **S. Wang**, H. Tang*, B. Wang, et al, "Analysis of Fatigue in the Biceps Brachii by Using Rapid Refined Composite Multiscale Sample Entropy, " Biomedical Signal Processing and Control, 67(4):102510, 2021. [Paper](https://www.sciencedirect.com/science/article/pii/S1746809421001075) / [Code](https://github.com/Shurun-Wang/R2CMSE)
-    
-<h3 align="center">发明专利</h3>
-<div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
 
-- 唐昊，__王舒润__，王彬。一种基于网络架构搜索的人体运动意图识别方法。ZL202111251646.3（已授权）
-
-<span class='anchor' id='-ryjx'></span>
-
-# 🏅 荣誉奖项
-- *2024.10*&ensp;博士学位论文被安徽省机器人学会评为优秀论文
-- *2023.04*&ensp;受到国家留学基金委员会的留学资助
-- *2022.10*&ensp;博士研究生国家奖学金
-
-<span class='anchor' id='-zyxx'></span>
+   
 
 
 
   
+
 
 
 
