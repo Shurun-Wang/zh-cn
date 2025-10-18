@@ -38,9 +38,9 @@ redirect_from:
 - *2016.09 - 2019.06*&ensp;硕士, 电气与自动化工程学院，合肥工业大学，合肥，中国。 <a href="https://www.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
 - *2012.09 - 2016.06*&ensp;学士，电气与自动化工程学院，合肥工业大学，合肥，中国。 <a href="https://www.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> 
 
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-fblw'></span>
 
-# 📝 论文专利 
+# 📝 发表论文
 1. **S. Wang**, H. Tang*, R. Himeno, et al. A robust denoising diffusion framework for completing missing regions of multiple biomedical signals.  Biomedical Signal Processing and Control, 113:108788, 2026. [Paper](https://www.sciencedirect.com/science/article/pii/S1746809425012996) / [Code](https://github.com/Shurun-Wang/DBSCF)
 2. **S. Wang**, H. Tang*, R. Himeno, et al. ECGDenoiser: A magnitude-aware deep learning framework with phase retrieval for electrocardiogram signal enhancement. Circuits, Systems, and Signal Processing, 2025, 44(10): 7526-7548. [Paper](https://link.springer.com/article/10.1007/s00034-025-03142-5) / [Code](https://github.com/Shurun-Wang/ECGDenoiser)
 3. **S. Wang**, H. Tang*, Z. Ping, et al. Improved data-driven model-free adaptive control method for an upper extremity power-assist exoskeleton. Applied Intelligence, 2025, 55(6): 1-18. [Paper](https://link.springer.com/article/10.1007/s10489-025-06415-3) / [Code](https://github.com/Shurun-Wang/ISO-IMFAC)
@@ -56,6 +56,7 @@ redirect_from:
 
 
   
+
 
 
 
