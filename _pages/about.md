@@ -17,9 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-青年研究人员，以第一作者发表SCI期刊论文10+篇，引用 
- <a href='https://scholar.google.com/citations?user=bTr_fucAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。
-
 研究领域包括: 
 - 生物医学信号检测分析处理
 - 肌电模式识别与控制
